@@ -66,8 +66,7 @@ You can also explore calculators by category:
 
 ## About
 
-CalciHub is built and operated by InZentrix, a digital development
-and technology agency based in New Delhi, India.
+CalciHub is built and operated by [InZentrix](https://inzentrix.com/), a digital development and technology agency based in New Delhi, India.
 
 ## Feedback and Corrections
 

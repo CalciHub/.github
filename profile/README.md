@@ -1,60 +1,82 @@
 # CalciHub
 
-**Practical calculators for everyday decisions, planning, and research.**
+CalciHub is a collection of free online calculators designed to make
+common calculations easier to understand, verify, and reproduce.
 
-[CalciHub](https://calcihub.com) is a collection of online calculators designed to help people work through common calculations without having to build formulas from scratch.
+Instead of presenting only a final number, our calculators explain the
+calculation method, define the variables involved, and provide useful
+context around the result.
 
-Our calculators cover areas such as **finance, health, education, business, market research, and everyday calculations**, with explanations that help users understand what the result means and how it is calculated.
+## Calculator Categories
 
-## What you'll find on CalciHub
+CalciHub currently provides 119 calculators across eight categories:
 
-CalciHub currently provides calculators across a growing range of categories, including:
+| Category | Calculators |
+| --- | ---: |
+| [Finance](https://calcihub.com/calculators/category/finance) | 38 |
+| [Mathematics](https://calcihub.com/calculators/category/mathematics) | 25 |
+| [Health & Fitness](https://calcihub.com/calculators/category/health) | 18 |
+| [Conversion](https://calcihub.com/calculators/category/conversion) | 15 |
+| [Science](https://calcihub.com/calculators/category/science) | 8 |
+| [Date & Time](https://calcihub.com/calculators/category/date-time) | 6 |
+| [Statistics](https://calcihub.com/calculators/category/statistics) | 4 |
+| [Utility](https://calcihub.com/calculators/category/utility) | 5 |
 
-- Finance and money
-- Health and fitness
-- Education and study planning
-- Business and marketing
-- Market research
-- Statistics and probability
-- Everyday calculations
-- Other practical planning tools
+## How CalciHub Calculators Work
 
-Each calculator is designed around a specific calculation or use case rather than being a generic number converter.
+Where applicable, each calculator provides:
 
-## Our approach
+- The formula or calculation method
+- Definitions of the variables used
+- A worked example
+- Explanation of the result
+- Relevant assumptions and limitations
 
-We aim to make calculators that are:
+The goal is to make calculations understandable rather than treating
+the result as a number that must simply be accepted.
 
-- **Easy to use** — enter the relevant values and get a clear result.
-- **Transparent** — formulas, assumptions, and relevant explanations are provided where appropriate.
-- **Practical** — calculators focus on situations where doing the calculation manually can be inconvenient.
-- **Understandable** — supporting explanations help users interpret the result instead of showing only a number.
+## Calculation Methodology
 
-Results should always be considered in the context of the assumptions and information entered into the calculator.
+Calculators are developed around the calculation method appropriate to
+their intended use case.
 
-## Research and methodology
+Where a recognized formula, mathematical relationship, or established
+calculation method is used, the relevant methodology and assumptions
+are explained on the calculator page.
 
-Where a calculator relies on a recognized formula, statistical method, or established calculation approach, we explain the underlying method and relevant assumptions.
-
-Some calculators may provide estimates rather than exact real-world outcomes. Factors outside the calculator's inputs can affect actual results, so users should consider the result as a calculation or planning aid rather than a guarantee.
+Some calculators produce estimates rather than exact real-world
+outcomes. Results depend on the information entered and the
+assumptions used.
 
 ## Explore CalciHub
 
-Visit **[calcihub.com](https://calcihub.com)** to browse the available calculators and explore the different categories.
+Visit [CalciHub](https://calcihub.com/) to browse the complete
+collection of calculators.
+
+You can also explore calculators by category:
+
+- [Finance](https://calcihub.com/calculators/category/finance)
+- [Mathematics](https://calcihub.com/calculators/category/mathematics)
+- [Health & Fitness](https://calcihub.com/calculators/category/health)
+- [Conversion](https://calcihub.com/calculators/category/conversion)
+- [Science](https://calcihub.com/calculators/category/science)
+- [Date & Time](https://calcihub.com/calculators/category/date-time)
+- [Statistics](https://calcihub.com/calculators/category/statistics)
+- [Utility](https://calcihub.com/calculators/category/utility)
 
 ## About
 
-CalciHub is operated by **InZentrix**, a digital development and technology agency.
+CalciHub is built and operated by InZentrix, a digital development
+and technology agency based in New Delhi, India.
 
-The project is maintained with a focus on building useful, accessible web-based tools and improving them based on practical use cases and feedback.
+## Feedback and Corrections
+
+If you find an issue with a calculation, formula, explanation, or
+other information, please use the contact information available on
+the CalciHub website.
 
 ## Contact
 
-For questions, corrections, suggestions, or feedback regarding a calculator, please use the contact information available on the CalciHub website.
+For questions, corrections, suggestions, or feedback:
 
----
-
-**CalciHub**  
-Practical calculators. Clear results. Useful explanations.
-
-[Visit CalciHub](https://calcihub.com)
+contact@calcihub.com

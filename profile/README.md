@@ -64,6 +64,13 @@ You can also explore calculators by category:
 - [Statistics](https://calcihub.com/calculators/category/statistics)
 - [Utility](https://calcihub.com/calculators/category/utility)
 
+## Find CalciHub elsewhere
+
+- X: https://x.com/calcihub
+- Medium: https://medium.com/@calcihub
+- Pinterest: https://www.pinterest.com/calcihubofficial/
+- Quora: https://calcihub.quora.com/
+
 ## About
 
 CalciHub is built and operated by [InZentrix](https://inzentrix.com/), a digital development and technology agency based in New Delhi, India.
